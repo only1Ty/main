@@ -1,0 +1,13 @@
+Root directory
+
+Doc (This folder contains the documentation for the project, including user manual, technical documentation, and meeting notes)
+
+Python (This folder contains the Python script that utilizes the OpenAI API and any related files)
+
+C# (This folder contains the C# project, including the source code, assets, and any related files)
+
+src (This folder contains the source code for the C# project)
+
+assets (This folder contains any assets, such as images, that are used in the C# project)
+
+Test (This folder contains any test cases and test scripts for the application)
